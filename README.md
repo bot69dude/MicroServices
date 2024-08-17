@@ -44,8 +44,6 @@ E_Commerce
 
 ```bash
 git clone https://github.com/bot69dude/MicroServices.git
-```
-```bash
 cd MicroServices
 ```
 
